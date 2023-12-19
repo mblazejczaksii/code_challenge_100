@@ -1,3 +1,3 @@
-firstPart = input("Please provide city name:")
-secondPart = input("Please provide pet name:")
-print(f"Your Band could name: {firstPart} {secondPart}")
+firstPart = input("Please provide city name:\n")
+secondPart = input("Please provide pet name:\n")
+print(f"Your Band name could be: {firstPart} {secondPart}")
